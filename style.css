@@ -95,10 +95,12 @@ img {
 
 #full{
     border-left: 8px solid rgb(255, 0, 0);
+    border-radius: 0%;
 }
 
 #baby{
     border-left: 8px solid rgb(21, 21, 223);
+    border-radius: 0%;
 }
 footer p{
 text-align: center;
